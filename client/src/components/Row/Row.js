@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "./Row.css";
 
 import Cell from "../Cell/Cell";

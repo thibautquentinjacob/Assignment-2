@@ -3,3 +3,14 @@ input {
     flex-shrink: 1;
     width: 50px;
 }
+
+input:focus {
+    background-color: #66ff004f;
+    border: 2px solid #3d7200;
+    outline: none;
+}
+
+input.modified {
+    background-color: #fffb004f;
+    /* border: 2px solid #3d7200; */
+}

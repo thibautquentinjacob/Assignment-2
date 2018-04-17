@@ -30,7 +30,7 @@ class App extends React.Component {
         // Setup API refresh
         setInterval( () => {
             this.fetchData();
-        }, 1000 );
+        }, 100 );
     }
 
     // Fetch data from the API and apply override
@@ -64,7 +64,6 @@ class App extends React.Component {
         // Add new override and update component state
         this.state.override[category][cellIndex] = parseFloat( cellValue );
         this.setState({
-            data:     this.state.data,
             override: this.state.override
         })
     }
