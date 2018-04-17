@@ -1,6 +1,8 @@
 # Assignment
 
-[Video](https://streamable.com/cy7gx)
+![Preview](http://thibautjacob.com/assignment2.png)
+
+[Video](https://streamable.com/etexj)
 
 ## Tech used
 - D3.js to generate the visualization
