@@ -12,5 +12,5 @@ input:focus {
 
 input.modified {
     background-color: #fffb004f;
-    /* border: 2px solid #3d7200; */
+    border: 2px solid #c5c473;
 }
