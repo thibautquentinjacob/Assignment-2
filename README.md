@@ -1,5 +1,7 @@
 # Assignment
 
+[![Build Status](https://ci.thibautjacob.com/api/badges/thibautquentinjacob/Assignment-2/status.svg)](https://ci.thibautjacob.com/thibautquentinjacob/Assignment-2)
+
 ![Preview](http://thibautjacob.com/assignment2.png)
 
 [Video](https://streamable.com/etexj)
